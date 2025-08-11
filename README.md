@@ -88,8 +88,8 @@ Chat UI (Display Result)
 
   - You can get the tokens here:
 
-    - • [Hugging Face token](https://huggingface.co/settings/tokens)
-    - • [ngrok token](https://dashboard.ngrok.com/get-started/your-authtoken)
+    - [Hugging Face token](https://huggingface.co/settings/tokens)
+    - [ngrok token](https://dashboard.ngrok.com/get-started/your-authtoken)
       
 - Run all cells
 - Copy the public `ngrok` URL (e.g. `https://abc123.ngrok-free.app`)
