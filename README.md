@@ -4,7 +4,7 @@ GlamGen is your personal AI fashion stylist. 🧠🎨
 
 It chats with users to understand their preferences — age, gender, occasion, season, style, and colors — and uses LLMs and Stable Diffusion to generate a custom outfit description and image tailored just for them.
 
-> Think of it as a GenAI stylist that turns your vibe into visuals.
+Think of it as a GenAI stylist that turns your vibe into visuals.
 
 
 ## 🚀 Demo
@@ -46,8 +46,8 @@ Watch the full experience (from landing page to outfit reveal) here:
 - Backend sends the prompt to Mistral-7B Instruct (LLM) to generate a detailed outfit description
 - The generated description is passed to Stable Diffusion 2.0 (via Hugging Face Diffusers) to generate an outfit image
 - Both:
-  - • The outfit description (from Mistral)  
-  - • The outfit image (from Stable Diffusion)  
+  - The outfit description (from Mistral)  
+  - The outfit image (from Stable Diffusion)  
   are returned to the frontend
 - The frontend displays the AI-generated outfit and its detailed style breakdown
 
@@ -88,8 +88,8 @@ Chat UI (Display Result)
 
   - You can get the tokens here:
 
-    • [Hugging Face token](https://huggingface.co/settings/tokens)
-    • [ngrok token](https://dashboard.ngrok.com/get-started/your-authtoken)
+    - • [Hugging Face token](https://huggingface.co/settings/tokens)
+    - • [ngrok token](https://dashboard.ngrok.com/get-started/your-authtoken)
       
 - Run all cells
 - Copy the public `ngrok` URL (e.g. `https://abc123.ngrok-free.app`)
