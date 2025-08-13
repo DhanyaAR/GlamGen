@@ -16,7 +16,7 @@ Here's a quick look at GlamGen in action — from chatting with the user to gene
 
 #### 📺 Full Walkthrough  
 Watch the full experience (from landing page to outfit reveal) here:  
-[▶️ Watch on YouTube][(https://youtu.be/yE7tEPAcZpw)]
+[▶️ Watch on YouTube][[(https://youtu.be/yE7tEPAcZpw)]]
 
 
 ## ✨ Features
